@@ -155,10 +155,12 @@ cython_debug/
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be added to the global gitignore or merged into this project gitignore.  For a PyCharm
-#  project, it is recommended to include the .idea directory in version control.
-.idea/
+#  project, it is recommended to include the following files:
+#  .idea/
+#  *.iml
+#  *.ipr
 
-# VS Code
+# Vscode
 .vscode/
 
 # OS generated files
